@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-logo {
+    height: 40px;
+    width: 50px;
+}
+
+.bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-container {
+    text-align: center;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #1a2137;
+    color: #ffffff;
+    padding: 5px;
+    height: 50px;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#nv1 {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+#nv2 {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+#nv3 {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+#nv4 {
+    color: #323f4b;
+    font-weight: 500;
+}
+
+
+
+
+.features-main-heading {
+    color: #1f2933;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.features-sub-heading {
+    color: #1f2933;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.features-description {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.features-images {
+    height: 70px;
+    width: 70px;
+}
+
+.bold-text {
+    color: #1f2933;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.vr-bg-container {
+    background-color: #f9fbfe;
+}
+
+.vr-kit-heading {
+    color: #1f2933;
+    font-size: 23px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.vr-kit-img {
+    height: 200px;
+    width: 170px;
+}
+
+.vr-kit-sub-heading {
+    color: #323f4b;
+    font-size: 16px;
+    margin-top: 10px;
+    font-family: "Roboto";
+}
+
+
+
+.cu-bg-container {
+    background-color: #222b36;
+    height: 40vh;
+}
+
+.cu-heading {
+    margin-top: 25px;
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cu-button {
+    background-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff;
+    font-size: 10px;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.vr-optic-heading {
+    color: #1f2933;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.vr-optic-description {
+    color: #7b8794;
+    font-size: 17px;
+    font-family: "Roboto";
+
+}
+
+.vr-optic-button {
+    background-color: #1a2137;
+    color: #ffffff;
+
+}
+
+.vr-tb-heading {
+    margin-top: 27px;
+    font-family: "Roboto";
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.vr-tb-sub-heading {
+    font-family: "Roboto";
+    color: #959ead;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.vr-bt-description {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.vr-bt-text-container {
+    padding: 10px;
+}
+
+.vr-tb-link {
+    font-family: "Roboto";
+    color: #1754a1;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.vr-tb-button {
+    background-color: #1754a1;
+    color: #ffffff;
+    height: 40px;
+    width: 130px;
+    font-size: 15px;
+}
+
+.bg-container {
+    background-color: #19232d;
+    height: 100%;
+}
+
+.image-logo {
+    height: 35px;
+    width: 50px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.icon-container {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #272a2e;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.sub-head {
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.para {
+    color: #5a7184;
+    font-size: 26px;
+}
+
+.line {
+    background-color: #5a7184;
+}
